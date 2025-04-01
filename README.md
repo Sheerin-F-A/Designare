@@ -7,3 +7,9 @@ Designare is an all-in-one solution crafted for designers who value both speed a
 <p> ✅ Get Font Files – Fetch font files by name for easy downloads.
 <p> ✅ Telegram Bot + Web Interface – Use it directly in Telegram or via a simple web frontend.
 
+---
+
+# 🎁 Future Improvements
+
+- 🔥 Add API integrations for better font recognition.  
+- 🎨 Add vectorization and color extraction.  
