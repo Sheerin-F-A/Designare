@@ -11,5 +11,5 @@ Designare is an all-in-one solution crafted for designers who value both speed a
 
 # 🎁 Future Improvements
 
-- 🔥 Add API integrations for better font recognition.  
-- 🎨 Add vectorization and color extraction.  
+<p> 🔥 Add API integrations for better font recognition.  
+<p> 🎨 Add vectorization and color extraction.  
