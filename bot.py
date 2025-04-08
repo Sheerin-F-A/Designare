@@ -9,7 +9,7 @@ from PIL import Image
 # Update this to your actual CLI binary path
 REALESRGAN_CLI = "/Users/sheerinfatimaaijaz/tools/realesrgan-ncnn-vulkan/Real-ESRGAN/realesrgan-ncnn-vulkan"
 
-TOKEN = "7861333194:AAGuCz8CTZoY38Hq49yI_O9vuaM5Xxasppg"
+TOKEN = "BOT_TOKEN_HERE"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("👋 Hi! Send a photo with caption /removebg or /upscale!")
